@@ -4,8 +4,6 @@ import React from "react";
 import feature from "../../assets/features/banner.svg";
 
 const About = () => {
-
-  
   return (
     <section className="section features" id="features" aria-label="features">
       <div className="container mx-auto px-4 text-center">
