@@ -108,5 +108,5 @@ export const facility = [
     time: "10:00 AM - 7:00 PM",
     verified: true,
     address:"Plot No 77&78, Subplot No 3A, next to Rohini Signs, Ramtekdi Industrial Area, Hadapsar, Pune, Maharashtra 411013"
-  }
+  },
 ];
